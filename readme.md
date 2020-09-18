@@ -5,9 +5,9 @@
 
 [AMP 2020](https://babel.ucsc.edu/~amp2020/), September 18-20, 2020
 
+  
 
-
-This tutorial outlined in the handout builds on the following article:
+This tutorial builds on the following article:
 
 Anttila, Arto, Timothy Dozat, Daniel Galbraith, and Naomi Shapiro. 2020. Sentence stress in presidential speeches. In Gerrit Kentner and Joost Kremers (eds.), *Prosody in Syntactic Encoding*, Walter De Gruyter: Berlin/Boston, pp. 17-50.
 
